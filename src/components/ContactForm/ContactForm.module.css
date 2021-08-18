@@ -1,0 +1,12 @@
+.contactForm {
+  border: 1px solid black;
+  width: 400px;
+  padding: 18px;
+}
+.contactForm__label {
+  font-size: 18px;
+  font-weight: 600;
+}
+.contactForm__input {
+  margin: 10px 0 20px 0;
+}
